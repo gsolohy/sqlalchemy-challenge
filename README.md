@@ -20,6 +20,9 @@ Flask api routes
 ### Bonus (Optional)
 * Temperature Analysis I
 * Temperature Analysis II
+
+![TripTemp](Images/Plot03_Trip_Avg_Temp.png)
+
 * Daily Rainfall Average
 
 ## Purpose: use sqlalchemy, connect to sql database, flask api, pandas.
