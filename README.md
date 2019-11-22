@@ -25,4 +25,6 @@ Flask api routes
 
 * Daily Rainfall Average
 
+![TripTemp](Images/Plot04_Trip_Temp_Norm.png)
+
 ## Purpose: use sqlalchemy, connect to sql database, flask api, pandas.
